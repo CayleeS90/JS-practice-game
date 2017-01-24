@@ -37,7 +37,7 @@ var startStory = function () {
         window.alert("You are startled and fall backwards. Without thinking you quickly feel around in the mud for something to use as a weapon. you found a " + randomWeapon + " the unnatural being!");
     };
 
-
+// testing 123
 
 document.getElementById("beginButton").addEventListener("click", startStory, false);
 
